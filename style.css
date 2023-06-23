@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 2;
     text-align: center;
 }
 h1 {
@@ -8,10 +8,10 @@ h1 {
 }
 
 p {
-    margin: 2em 0;
+    margin: 2em 2;
 }
 
 img {
-    width: 40em;
-    max-width: 90%;
+    width: 30em;
+    max-width: 75%;
 }
