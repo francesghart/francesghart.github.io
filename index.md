@@ -1,5 +1,5 @@
 <p align="center">
-<img width="970" height="250" src="assets/images/Danse Macabre.png">
+<img width="1000" height="250" src="assets/images/DanseMacabreCrop.png">
 </p>
 
 <h1 align="center">
