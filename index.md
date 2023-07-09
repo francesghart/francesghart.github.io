@@ -5,7 +5,7 @@
     an intern in the Belief, Learning, and Memory Lab at Yale School of Medicine. In my free time, I enjoy reading and practicing yoga.
 
 <p align="center">
-  <img width="240" height="300" src="/assets/images/hart.png">
+  <img width="245" height="300" src="/assets/images/hart.png">
 </p>
 
 ## [CV](https://github.com/hartfa/hartfa.github.io/files/11923717/Hart.July.2023.CV.docx.pdf)
