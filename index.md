@@ -4,6 +4,8 @@
     a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of suicide, death attitudes, and eudaemonic            wellbeing. I am currently completing an Honors Thesis in the Cognition and Affect Research and Education Lab at McLean Hospital, and recently began as 
     an intern in the Belief, Learning, and Memory Lab at Yale School of Medicine. In my free time, I enjoy reading and practicing yoga.
 
-<img src="/assets/images/hart.png" align="center" width="250" height="300">
+<p align="center">
+  <img width="240" height="300" src="/assets/images/hart.png">
+</p>
 
 ## [CV](https://github.com/hartfa/hartfa.github.io/files/11923717/Hart.July.2023.CV.docx.pdf)
