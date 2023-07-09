@@ -1,4 +1,6 @@
-
+<p align="center">
+<img width="970" height="250" src="assets/images/Danse Macabre.png">
+</p>
 
 <h1 align="center">
   Frances Grace Hart
