@@ -292,3 +292,11 @@ footer {
   }
 }
 
+nav {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+  text-align:left;
+}
