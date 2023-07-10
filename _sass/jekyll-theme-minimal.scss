@@ -292,11 +292,71 @@ footer {
   }
 }
 
-nav {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-  text-align:left;
+/* Basic styling for the navigation */
+.nav {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 200px;
+  background-color: #333;
+  color: #fff;
 }
+
+.nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav li {
+  padding: 10px;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.nav a:hover {
+  color: #ffcc00;
+}
+
+/* Styling for the cool effects */
+.nav::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100px;
+  width: 100px;
+  height: 100%;
+  background: linear-gradient(to right, transparent, #333);
+  transition: 0.5s;
+}
+
+.nav:hover::before {
+  left: 0;
+}
+
+.nav::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -100px;
+  width: 100px;
+  height: 100%;
+  background: linear-gradient(to left, transparent, #333);
+  transition: 0.5s;
+}
+
+.nav:hover::after {
+  right: 0;
+}
+
+
+
+
+
+
+

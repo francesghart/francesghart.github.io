@@ -14,4 +14,3 @@ Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology stud
   <img width="300" height="300" src="/assets/images/FrancesGHartCrop.png">
 </p>
 
-## [CV](assets/documents/HartJuly2023CV.pdf) and [Twitter](https://twitter.com/francesghart)
