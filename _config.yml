@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Grace Hart # this is the title of your webpage
+logo: /assets/documents/hart.png
+description: Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology student at Boston College graduating in December 2023. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death attitudes, and eudaemonic wellbeing. I am currently completing an Honors Thesis in the Cognition and Affect Research and Education Lab at McLean Hospital, and recently began as an intern in the Belief, Learning, and Memory Lab at Yale School of Medicine. In my free time, I enjoy reading and practicing yoga.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
