@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #fff;
+  background-color: #000000;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -10,11 +10,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#ffffff;
   margin:0 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
+  color:#ffffff;
   margin:0 0 20px;
 }
 
@@ -293,7 +294,7 @@ footer {
 }
 
 /* Basic styling for the navigation */
-.nav {
+nav {
   position: fixed;
   left: 0;
   top: 0;
@@ -303,28 +304,28 @@ footer {
   color: #fff;
 }
 
-.nav ul {
+nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-.nav li {
+nav li {
   padding: 10px;
 }
 
-.nav a {
+nav a {
   color: #fff;
   text-decoration: none;
   transition: 0.3s;
 }
 
-.nav a:hover {
+nav a:hover {
   color: #ffcc00;
 }
 
 /* Styling for the cool effects */
-.nav::before {
+nav::before {
   content: '';
   position: absolute;
   top: 0;
@@ -335,11 +336,11 @@ footer {
   transition: 0.5s;
 }
 
-.nav:hover::before {
+nav:hover::before {
   left: 0;
 }
 
-.nav::after {
+nav::after {
   content: '';
   position: absolute;
   top: 0;
@@ -350,7 +351,7 @@ footer {
   transition: 0.5s;
 }
 
-.nav:hover::after {
+nav:hover::after {
   right: 0;
 }
 
