@@ -222,10 +222,12 @@ footer {
     float:none;
     position:static;
     width:auto;
+    display:none;
   }
 
   header {
     padding-right:320px;
+    display:none;
   }
 
   section {
@@ -236,13 +238,15 @@ footer {
   }
 
   header a small {
-    display:inline;
+    // display:inline;
+    display:none;
   }
 
   header ul {
     position:absolute;
     right:50px;
     top:52px;
+    display:none;
   }
 }
 
@@ -253,10 +257,12 @@ footer {
 
   header {
     padding:0;
+    display:none;
   }
 
   header ul, header p.view {
     position:static;
+    display:none;
   }
 
   pre, code {
