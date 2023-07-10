@@ -10,6 +10,15 @@ body {
   font-weight:400;
 }
 
+#my-name {
+  color:#727272;
+}
+
+#my-name:hover, #my-name:focus {
+  color:#069;
+  font-weight: bold;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
