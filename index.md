@@ -16,19 +16,39 @@ Suicide, death attitudes, existential psychology, theory formalization, mathemat
 
 ## Education
 Boston College, Expected Graduation December 2023
-Bachelor of Arts, Psychology Major: Honors Program, Clinical Concentration; Philosophy Minor
+
+Bachelor of Arts, Psychology Major: Honors Program, Clinical Concentration; 
+
+Philosophy Minor
+
 
 Randolph College, 2019-2020
 
 
 ## Research Experience
-Belief, Memory, and Learning Lab at Yale School of Medicine - Intern June 2023-present
+Yale School of Medicine: Belief, Memory, and Learning Lab 
 
-Cognition, Affect, Research, and Education Lab at McLean Hospital/Harvard Medical School - Academic credit student January 2022-present
+Intern
 
-Cooperation Lab at Boston College - Research Assistant July 2020-August 2022
+June 2023-present
 
-Embodied Cognition Lab at Randolph College - Research Assistant October 2019-May 2020
+McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
+
+Academic credit student 
+
+January 2022-present
+
+Boston College: Cooperation Lab 
+
+Research Assistant 
+
+July 2020-August 2022
+
+Randolph College: Embodied Cognition Lab
+
+Research Assistant 
+
+October 2019-May 2020
 
 <!-- > This is a blockquote following a header. -->
 <!-- > -->
@@ -37,13 +57,18 @@ Embodied Cognition Lab at Randolph College - Research Assistant October 2019-May
 ## Selected Fellowships, Grants, and Awards
 ### 2023
 Berlin Institute of Health Meta-science Summer School Travel Award
+
 Boston College Conference Travel Grant
+
 Center for Open Science Metascience Conference Travel Award
+
 Boston College Advanced Study Grant
 
 ### 2022
 Scott O. Lilienfeld Memorial Prize for Scientific Thinking in Clinical Psychology
-Sentio University “Therapist Throwdown”- Third Place 2022
+
+Sentio University “Therapist Throwdown”- Third Place
+
 Boston College Undergraduate Research Fellowship
 
 ### 2021
