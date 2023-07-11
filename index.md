@@ -6,25 +6,50 @@ layout: default
 
 Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology student at Boston College graduating in December 2023. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death attitudes, and eudaemonic wellbeing. I am currently completing an Honors Thesis in the Cognition and Affect Research and Education Lab at McLean Hospital, and recently began as an intern in the Belief Lab at Yale School of Medicine. In my free time, I enjoy reading and practicing yoga.
 
-[Link to another page](./another-page.html).
+<!-- There should be whitespace between paragraphs. -->
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Research Interests
+Suicide, death attitudes, existential psychology, theory formalization, mathematical and computational modeling, digital phenotyping, scalable treatments, meta-science
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Education
+Boston College, Expected Graduation December 2023
+Bachelor of Arts, Psychology Major: Honors Program, Clinical Concentration; Philosophy Minor
 
-## Header 2
+Randolph College, 2019-2020
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Research Experience
+Belief, Memory, and Learning Lab at Yale School of Medicine - Intern June 2023-present
 
-```js
+Cognition, Affect, Research, and Education Lab at McLean Hospital/Harvard Medical School - Academic credit student January 2022-present
+
+Cooperation Lab at Boston College - Research Assistant July 2020-August 2022
+
+Embodied Cognition Lab at Randolph College - Research Assistant October 2019-May 2020
+
+<!-- > This is a blockquote following a header. -->
+<!-- > -->
+<!-- > When something is important enough, you do it even if the odds are not in your favor. -->
+
+## Selected Fellowships, Grants, and Awards
+### 2023
+Berlin Institute of Health Meta-science Summer School Travel Award
+Boston College Conference Travel Grant
+Center for Open Science Metascience Conference Travel Award
+Boston College Advanced Study Grant
+
+### 2022
+Scott O. Lilienfeld Memorial Prize for Scientific Thinking in Clinical Psychology
+Sentio University “Therapist Throwdown”- Third Place 2022
+Boston College Undergraduate Research Fellowship
+
+### 2021
+Boston College Undergraduate Research Fellowship
+
+<!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -37,7 +62,7 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 #### Header 4
 
