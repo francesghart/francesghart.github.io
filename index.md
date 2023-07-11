@@ -64,7 +64,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
-#### Header 4
+<!-- #### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -147,4 +147,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
