@@ -23,15 +23,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        <p>
-          Hello! My name is {{ site.description.name}} ({{ site.description.pronouns}}) and I am an {{ site.description.education[0].status}} at {{ site.description.education[0].school}} graduating in {{ site.description.education[0].graduation}}.
-          <br /><br />I hope to {{site.description.future_plans[0]}}, where I would like to {{site.description.future_plans[1]}}.
-          <br /><br />I am currently completing an Honors Thesis in the {{site.description.labs[0].name}} at {{site.description.labs[0].location}}, and recently began as an intern in the <a href={{site.description.labs[1].email}}>{{site.description.labs[1].name}}</a> at {{site.description.labs[1].location}}.
-          <br /><br />In my free time, I enjoy {{site.description.hobbies[0]}} and {{site.description.hobbies[1]}}.
-        </p>
         
-
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
