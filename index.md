@@ -17,38 +17,37 @@ Suicide, death attitudes, existential psychology, theory formalization, mathemat
 ## Education
 Boston College, Expected Graduation December 2023
 
-Bachelor of Arts, Psychology Major: Honors Program, Clinical Concentration; 
-
-Philosophy Minor
-
+  Bachelor of Arts
+    Psychology Major: Honors Program, Clinical Concentration
+    Philosophy Minor
 
 Randolph College, 2019-2020
 
 
 ## Research Experience
-Yale School of Medicine: Belief, Memory, and Learning Lab 
+# Yale School of Medicine: Belief, Memory, and Learning Lab 
 
-Intern
+  Intern
 
-June 2023-present
+  June 2023-present
 
-McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
+# McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
 
-Academic credit student 
+  Academic credit student 
 
-January 2022-present
+  January 2022-present
 
-Boston College: Cooperation Lab 
+# Boston College: Cooperation Lab 
 
-Research Assistant 
+  Research Assistant 
 
-July 2020-August 2022
+  July 2020-August 2022
 
-Randolph College: Embodied Cognition Lab
+# Randolph College: Embodied Cognition Lab
 
-Research Assistant 
+  Research Assistant 
 
-October 2019-May 2020
+  October 2019-May 2020
 
 <!-- > This is a blockquote following a header. -->
 <!-- > -->
