@@ -25,25 +25,25 @@ Randolph College, 2019-2020
 
 
 ## Research Experience
-# Yale School of Medicine: Belief, Memory, and Learning Lab 
+### Yale School of Medicine: Belief, Memory, and Learning Lab 
 
   Intern
 
   June 2023-present
 
-# McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
+### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
 
   Academic credit student 
 
   January 2022-present
 
-# Boston College: Cooperation Lab 
+### Boston College: Cooperation Lab 
 
   Research Assistant 
 
   July 2020-August 2022
 
-# Randolph College: Embodied Cognition Lab
+### Randolph College: Embodied Cognition Lab
 
   Research Assistant 
 
@@ -55,23 +55,23 @@ Randolph College, 2019-2020
 
 ## Selected Fellowships, Grants, and Awards
 ### 2023
-Berlin Institute of Health Meta-science Summer School Travel Award
+  Berlin Institute of Health Meta-science Summer School Travel Award
 
-Boston College Conference Travel Grant
+  Boston College Conference Travel Grant
 
-Center for Open Science Metascience Conference Travel Award
+  Center for Open Science Metascience Conference Travel Award
 
-Boston College Advanced Study Grant
+  Boston College Advanced Study Grant
 
 ### 2022
-Scott O. Lilienfeld Memorial Prize for Scientific Thinking in Clinical Psychology
+  Scott O. Lilienfeld Memorial Prize for Scientific Thinking in Clinical Psychology
 
-Sentio University “Therapist Throwdown”- Third Place
+  Sentio University “Therapist Throwdown”- Third Place
 
-Boston College Undergraduate Research Fellowship
+  Boston College Undergraduate Research Fellowship
 
 ### 2021
-Boston College Undergraduate Research Fellowship
+  Boston College Undergraduate Research Fellowship
 
 <!-- ```js
 // Javascript code with syntax highlighting.
