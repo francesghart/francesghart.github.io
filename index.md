@@ -4,7 +4,7 @@ layout: default
 
 ![Danse Macabre]({{site.banner}})
 
-Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology student at Boston College graduating in December 2023. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death attitudes, and eudaemonic wellbeing. I am currently completing an Honors Thesis in the Cognition and Affect Research and Education Lab at McLean Hospital, and recently began as an intern in the Belief Lab at Yale School of Medicine. In my free time, I enjoy reading and practicing yoga.
+Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology student at Boston College graduating in December 2023. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death attitudes, and eudaemonic wellbeing. I am currently completing an Honors Thesis in the Cognition and Affect Research and Education Lab at McLean Hospital, and recently began as an intern in the Belief, Learning, and Memory Lab at Yale School of Medicine. In my free time, I enjoy reading and practicing yoga.
 
 <!-- There should be whitespace between paragraphs. -->
 
@@ -27,27 +27,19 @@ Randolph College, 2019-2020
 ## Research Experience
 ### Yale School of Medicine: Belief, Memory, and Learning Lab 
 
-  Intern
-
-  June 2023-present
+  Intern (June 2023-present)
 
 ### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
 
-  Academic credit student 
-
-  January 2022-present
+  Academic credit student (January 2022-present)
 
 ### Boston College: Cooperation Lab 
 
-  Research Assistant 
-
-  July 2020-August 2022
+  Research Assistant (July 2020-August 2022)
 
 ### Randolph College: Embodied Cognition Lab
 
-  Research Assistant 
-
-  October 2019-May 2020
+  Research Assistant (October 2019-May 2020)
 
 <!-- > This is a blockquote following a header. -->
 <!-- > -->
