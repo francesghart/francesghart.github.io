@@ -1,0 +1,21 @@
+current directory: /Users/gracehart/hartfa.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/gracehart/hartfa.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230713-56841-phc6um sitelibdir\=./.gem.20230713-56841-phc6um clean
+
+current directory: /Users/gracehart/hartfa.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230713-56841-phc6um sitelibdir\=./.gem.20230713-56841-phc6um
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/gracehart/hartfa.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230713-56841-phc6um sitelibdir\=./.gem.20230713-56841-phc6um install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230713-56841-phc6um/racc
+
+current directory: /Users/gracehart/hartfa.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230713-56841-phc6um sitelibdir\=./.gem.20230713-56841-phc6um clean
