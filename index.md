@@ -47,7 +47,7 @@ Randolph College, 2019-2020
 
 ## Selected Fellowships, Grants, and Awards
 ### 2023
-  Berlin Institute of Health Meta-science Summer School Travel Award
+  Berlin Institute of Health Metascience Summer School Travel Award
 
   Boston College Conference Travel Grant
 
