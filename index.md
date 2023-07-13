@@ -11,7 +11,7 @@ Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology stud
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 ## Research Interests
-Suicide, death attitudes, existential psychology, theory formalization, mathematical and computational modeling, digital phenotyping, scalable treatments, meta-science
+Suicide, death attitudes, existential psychology, theory formalization, mathematical and computational modeling, digital phenotyping, scalable treatments, metascience
 
 
 ## Education
