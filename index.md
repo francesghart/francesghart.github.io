@@ -25,7 +25,7 @@ Randolph College, 2019-2020
 
 
 ## Research Experience
-### Yale School of Medicine: Belief, Memory, and Learning Lab 
+### Yale School of Medicine: Belief, Learning, and Memory Lab 
 
   Intern (June 2023-present)
 
