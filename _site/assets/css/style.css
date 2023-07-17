@@ -311,11 +311,11 @@ body {
 }
 
 #my-name {
-  color: #ded8cb;
+  color: #FAF9F6;
 }
 
 #my-name:hover, #my-name:focus {
-  color: #069;
+  color: #FAF9F6;
   font-weight: bold;
 }
 
