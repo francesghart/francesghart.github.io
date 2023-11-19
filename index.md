@@ -26,20 +26,20 @@ Randolph College, 2019-2020
 
 ## Research Experience
 ### Yale School of Medicine: Belief, Learning, and Memory Lab 
-
-  Intern (June 2023-present)
+  
+  Undergraduate Research Assistant (June 2023-present)
 
 ### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
 
-  Academic credit student (January 2022-present)
+  Honors Thesis Student (January 2022-present)
 
 ### Boston College: Cooperation Lab 
 
-  Research Assistant (July 2020-August 2022)
+  Undergraduate Research Assistant (July 2020-August 2022)
 
 ### Randolph College: Embodied Cognition Lab
 
-  Research Assistant (October 2019-May 2020)
+  Undergraduate Research Assistant (October 2019-May 2020)
 
 <!-- > This is a blockquote following a header. -->
 <!-- > -->
