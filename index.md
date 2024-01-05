@@ -27,11 +27,11 @@ Randolph College, 2019-2020
 ## Research Experience
 ### Yale School of Medicine: Belief, Learning, and Memory Lab 
   
-  Undergraduate Research Assistant (June 2023-present)
+  Research Assistant (June 2023-present)
 
 ### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
 
-  Honors Thesis Student (January 2022-present)
+  Research Assistant (January 2022-present)
 
 ### Boston College: Cooperation Lab 
 
@@ -47,6 +47,8 @@ Randolph College, 2019-2020
 
 ## Selected Fellowships, Grants, and Awards
 ### 2023
+  International Network on Personal Meaning Student Membership Award - First Place
+  
   Berlin Institute of Health Metascience Summer School Travel Award
 
   Boston College Conference Travel Grant
