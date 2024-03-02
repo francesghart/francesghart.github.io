@@ -11,6 +11,6 @@ Hello! My name is Grace Hart (she/her) and I am an undergraduate psychology stud
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="/assets/images/Hart_headshot.jpg">
+  <img width="300" height="300" src="/assets/images/hartHeadshot.jpeg">
 </p>
 
