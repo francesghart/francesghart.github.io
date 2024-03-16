@@ -23,24 +23,6 @@ Boston College, 2021-2023
 
 Randolph College, 2019-2020
 
-
-## Research Experience
-### Yale School of Medicine: Belief, Learning, and Memory Lab 
-  
-  Research Assistant (June 2023-present)
-
-### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
-
-  Research Assistant (January 2022-present)
-
-### Boston College: Cooperation Lab 
-
-  Undergraduate Research Assistant (July 2020-August 2022)
-
-### Randolph College: Embodied Cognition Lab
-
-  Undergraduate Research Assistant (October 2019-May 2020)
-
 <!-- > This is a blockquote following a header. -->
 <!-- > -->
 <!-- > When something is important enough, you do it even if the odds are not in your favor. -->
@@ -69,6 +51,23 @@ Randolph College, 2019-2020
 
 ### 2021
   Boston College Undergraduate Research Fellowship
+
+## Research Experience
+### Yale School of Medicine: Belief, Learning, and Memory Lab 
+  
+  Research Assistant (June 2023-present)
+
+### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
+
+  Research Assistant (January 2022-present)
+
+### Boston College: Cooperation Lab 
+
+  Undergraduate Research Assistant (July 2020-August 2022)
+
+### Randolph College: Embodied Cognition Lab
+
+  Undergraduate Research Assistant (October 2019-May 2020)
 
 <!-- ```js
 // Javascript code with syntax highlighting.
