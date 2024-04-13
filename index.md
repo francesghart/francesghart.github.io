@@ -29,9 +29,9 @@ Randolph College, 2019-2020
 
 ## Selected Fellowships, Grants, and Awards
 ### 2024
-  National Science Foundation Graduate Research Fellowship - accepted Fellow
+  National Science Foundation Graduate Research Fellowship - selected Fellow
   
-  Fulbright U.S. Student Program, Netherlands - accepted Scholar
+  Fulbright U.S. Student Program, Netherlands - selected Scholar
 
 ### 2023
   International Network on Personal Meaning Student Membership Award - First Place
