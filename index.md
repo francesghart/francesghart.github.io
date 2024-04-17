@@ -4,7 +4,7 @@ layout: default
 
 ![Danse Macabre]({{site.banner}})
 
-Hello! My name is Grace Hart (she/her) and I am an aspiring psychological scientist. I recently graduated from Boston College with a B.A. in psychology. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death beliefs/attitudes, and eudaemonic wellbeing. I am also interested in metascience, espeically theory-building and improving research methods/practices. In my free time, I enjoy reading and practicing yoga.
+Hello! My name is Grace Hart (she/her) and I am an aspiring psychological scientist. I recently graduated from Boston College with a B.A. in psychology. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death beliefs/attitudes, and meaning in life. I am also interested in metascience, espeically theory-building and measurement. In my free time, I enjoy reading and practicing yoga.
 
 <!-- There should be whitespace between paragraphs. -->
 
