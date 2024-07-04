@@ -4,7 +4,7 @@ layout: default
 
 ![Danse Macabre]({{site.banner}})
 
-Hello! My name is Grace Hart (she/her) and I am an aspiring psychological scientist. I recently graduated from Boston College with a B.A. in psychology. I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death beliefs/attitudes, and meaning in life. I am also interested in metascience, espeically theory-building and measurement. In my free time, I enjoy reading and practicing yoga.
+Hello! My name is Grace Hart (she/her) and I am an aspiring psychological scientist. I am currently the lab manager of Dr. Shirley Wang's Computational Clinical Science Lab at Yale University. In the future, I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death beliefs/attitudes, and meaning in life. I am also interested in metascience, espeically theory-building and measurement. In my free time, I enjoy reading and practicing yoga.
 
 <!-- There should be whitespace between paragraphs. -->
 
@@ -55,13 +55,16 @@ Randolph College, 2019-2020
   Boston College Undergraduate Research Fellowship
 
 ## Research Experience
+### Yale University: Computational Clinical Science Lab
+  Postgraduate Associate/Lab Manager (July 2024-present)
+
 ### Yale School of Medicine: Belief, Learning, and Memory Lab 
   
-  Research Assistant (June 2023-present)
+  Research Assistant (June 2023-June 2024)
 
 ### McLean Hospital/Harvard Medical School: Cognition, Affect, Research, and Education Lab 
 
-  Research Assistant (January 2022-present)
+  Research Assistant (January 2022-May 2024)
 
 ### Boston College: Cooperation Lab 
 
