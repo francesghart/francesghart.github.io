@@ -4,14 +4,16 @@ layout: default
 
 ![Danse Macabre]({{site.banner}})
 
-Hello! My name is Grace Hart (she/her) and I am an aspiring psychological scientist. I am currently the lab manager of Dr. Shirley Wang's Computational Clinical Science Lab at Yale University. In the future, I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling to improve our understanding of the relationship between suicide, death beliefs/attitudes, and meaning in life. I am also interested in metascience, espeically theory-building and measurement. In my free time, I enjoy reading and practicing yoga.
+Hello! My name is Grace Hart (she/her) and I am a Postgraduate Associate in Yale University's Psychology Department. I am currently the lab manager of Dr. Shirley Wang's Computational Clinical Science Lab, where we study self-injurious thoughts and behaviors and eating disorder behaviors using ecological momentary assessment and computational modeling. 
+
+In the future, I hope to pursue a PhD in clinical psychology, where I would like to use computational modeling and intensive longitudinal methods to improve our understanding of the relationship between suicide, death beliefs/attitudes, and meaning in life. I am also interested in metascience, espeically theory-building and measurement. In my free time, I enjoy reading and practicing yoga.
 
 <!-- There should be whitespace between paragraphs. -->
 
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 ## Research Interests
-Suicide, death attitudes, existential psychology, theory formalization, mathematical and computational modeling, digital phenotyping, scalable treatments, metascience
+Suicide, death attitudes, existential psychology, theory formalization, mathematical and computational modeling, ecological momentary assessment, scalable interventions, metascience
 
 
 ## Education
