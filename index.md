@@ -20,8 +20,8 @@ Suicide, death attitudes, existential psychology, theory formalization, mathemat
 Boston College, 2021-2023
 
   Bachelor of Arts, Cum Laude
-  Psychology Major: Honors Program, Clinical Concentration
-  Philosophy Minor
+  // Psychology Major: Honors Program, Clinical Concentration
+  // Philosophy Minor
 
 Randolph College, 2019-2020
 
