@@ -4,9 +4,13 @@ layout: default
 
 ![Danse Macabre]({{site.banner}})
 
-Hello! My name is Grace Hart (she/her) and I am a Postgraduate Associate in Yale University's Psychology Department. I am currently the lab manager of Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/), where we leverage ecological momentary assessment and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors.
+Hello! My name is Grace Hart (she/her) and I am a Postgraduate Associate in Yale University's Psychology Department. I am currently the lab manager of Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/), where we leverage digital phenotyping and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors.
 
-In the future, I intend to pursue a PhD in psychology, during which I would like to use computational modeling and intensive longitudinal methods to improve our understanding of the relationship between suicide, beliefs and feelings about death ("death concepts"), and meaning in life. In short, I am passionate about leveraging new methods to answer perennial questions. I am also interested in metascience, espeically theory-building and measurement. In my free time, I enjoy reading and practicing yoga.
+In fall 2026, I will begin my PhD in psychology at Yale under the continued mentorship of Dr. Wang. During my PhD, I intend to use computational models and intensive longitudinal methods to improve understanding, prediction, and prevention of suicidal thoughts and behaviors (STBs). I am particularly interested in a) what people believe and feel about death and mortality ("death concepts") and b) whether one feels life has meaning, and how these influence relevant psychological and behavioral outcomes like death anxiety and STBs. In short, I am passionate about leveraging new methods to answer perennial questions.
+
+I also retain interests in modeling transdiagnostic and basic psychological processes to better situate clinical knowledge within the context of broader psychological science. Relatedly, I enjoy thinking about philosophical and meta-scientific questions related to theory, measurement, and classification.
+
+In my free time, I enjoy reading, practicing yoga, cooking for friends, and listening to music produced by artists from my home state of Virginia.
 
 <!-- There should be whitespace between paragraphs. -->
 
@@ -17,6 +21,10 @@ Suicide, death concepts, existential psychology, theory formalization, mathemati
 
 
 ## Education
+Yale University, Incoming Fall 2026
+
+  Ph.D., Psychology
+
 Boston College, 2021-2023
 
   Bachelor of Arts, Cum Laude
@@ -30,10 +38,13 @@ Randolph College, 2019-2020
 <!-- > When something is important enough, you do it even if the odds are not in your favor. -->
 
 ## Selected Fellowships, Grants, and Awards
+### 2026
+  National Science Foundation Graduate Research Fellowship
+
 ### 2024
-  National Science Foundation Graduate Research Fellowship - selected Fellow
+  National Science Foundation Graduate Research Fellowship (awarded but declined)
   
-  Fulbright U.S. Student Program, Netherlands - selected Scholar
+  Fulbright U.S. Student Program, Netherlands (awarded but declined)
 
 ### 2023
   International Network on Personal Meaning Student Membership Award - First Place
