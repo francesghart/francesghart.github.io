@@ -238,7 +238,17 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding-right: 0;
+    text-align: center;
+  }
+
+  header img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  ul.downloads {
+    margin: 0 auto;
   }
 
   section {
