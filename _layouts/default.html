@@ -14,6 +14,7 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <img id="banner" src="{{ site.banner | relative_url }}" alt="banner" />
     <div id="site-title">
       <h1><a id="my-name">{{ site.title | default: site.github.repository_name }}</a></h1>
     </div>
