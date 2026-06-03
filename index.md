@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Danse Macabre]({{site.banner}})
+<!-- ![Danse Macabre](/assets/images/DanseMacabreCrop.png) -->
 
 Hello! My name is Grace Hart (she/her) and I am a Postgraduate Associate in Yale University's Psychology Department. I am currently the lab manager of Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/), where we leverage digital phenotyping and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors.
 
