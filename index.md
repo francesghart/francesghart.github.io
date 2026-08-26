@@ -4,9 +4,9 @@ layout: default
 
 <!-- ![Danse Macabre](/assets/images/DanseMacabreCrop.png) -->
 
-Hello! My name is Grace Hart (she/her) and I am a Postgraduate Associate in Yale University's Psychology Department. I am currently the lab manager of Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/), where we leverage digital phenotyping and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors.
+Hello! My name is Grace Hart (she/her) and I am a Ph.D. Student in Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/) at Yale University, where we leverage digital phenotyping and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors.
 
-In fall 2026, I will begin my PhD in psychology at Yale under the continued mentorship of Dr. Wang. During my PhD, I intend to use computational models and intensive longitudinal methods to improve understanding, prediction, and prevention of suicidal thoughts and behaviors (STBs). I am particularly interested in a) what people believe and feel about death and mortality ("death concepts") and b) whether one feels life has meaning, and how these influence relevant psychological and behavioral outcomes like death anxiety and STBs. In short, I am passionate about leveraging new methods to answer perennial questions.
+During my PhD, I intend to use computational models and intensive longitudinal methods to improve understanding, prediction, and prevention of suicidal thoughts and behaviors (STBs). I am particularly interested in a) what people believe and feel about death and mortality ("death concepts") and b) whether one feels life has meaning, and how these influence relevant psychological and behavioral outcomes like death anxiety and STBs. In short, I am passionate about leveraging new methods to answer perennial questions.
 
 I also retain interests in modeling transdiagnostic and basic psychological processes to better situate clinical knowledge within the context of broader psychological science. Relatedly, I enjoy thinking about philosophical and meta-scientific questions related to theory, measurement, and classification.
 
@@ -21,7 +21,7 @@ Suicide, death concepts, existential psychology, theory formalization, mathemati
 
 
 ## Education
-Yale University, Incoming Fall 2026
+Yale University, 2026-Present
 
   Ph.D., Psychology
 
