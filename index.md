@@ -4,13 +4,13 @@ layout: default
 
 <!-- ![Danse Macabre](/assets/images/DanseMacabreCrop.png) -->
 
-Hello! My name is Grace Hart (she/her) and I am a Ph.D. Student in Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/) at Yale University, where we leverage digital phenotyping and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors.
+Hello! My name is Grace Hart (she/her), and I am a PhD student in Dr. Shirley Wang's [Computational Clinical Science Lab](https://ccslab.yale.edu/) at Yale University, where we leverage digital phenotyping and computational methods to study self-injurious thoughts and behaviors and eating disorder behaviors. Before beginning my PhD, I served as lab manager in the CCS Lab, and before that I received my B.A. in Psychology with a minor in Philosophy from Boston College.
 
-During my PhD, I intend to use computational models and intensive longitudinal methods to improve understanding, prediction, and prevention of suicidal thoughts and behaviors (STBs). I am particularly interested in a) what people believe and feel about death and mortality ("death concepts") and b) whether one feels life has meaning, and how these influence relevant psychological and behavioral outcomes like death anxiety and STBs. In short, I am passionate about leveraging new methods to answer perennial questions.
+My research uses natural language processing, ecological momentary assessment, and computational modeling to improve the understanding, prediction, and prevention of suicidal thoughts and behaviors (STBs). I am particularly interested in (a) what people believe and feel about death and mortality ("death concepts") and (b) people's felt sense of meaning in life, and how each shapes psychological and behavioral outcomes such as death anxiety and STBs. In short, I am passionate about leveraging new methods to answer perennial questions.
 
-I also retain interests in modeling transdiagnostic and basic psychological processes to better situate clinical knowledge within the context of broader psychological science. Relatedly, I enjoy thinking about philosophical and meta-scientific questions related to theory, measurement, and classification.
+I am also interested in modeling transdiagnostic and basic psychological processes to better situate clinical knowledge within broader psychological science. Relatedly, I enjoy thinking about philosophical and metascientific questions regarding theory, measurement, and classification.
 
-In my free time, I enjoy reading, practicing yoga, cooking for friends, and listening to music produced by artists from my home state of Virginia.
+In my free time, I enjoy reading, practicing yoga, cooking for friends, and listening to music by artists from my beloved home state of Virginia.
 
 <!-- There should be whitespace between paragraphs. -->
 
